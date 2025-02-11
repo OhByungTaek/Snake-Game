@@ -1,0 +1,18 @@
+﻿  SnakeGame.c
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(386): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(408): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(380): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(383): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(460): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(462): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(470): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(384): warning C4102: 'START': 참조되지 않은 레이블입니다.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(354): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(353): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\com\desktop\과제\프로그래밍랩\텀프로젝트\1871377_snakegame\1871377_snakegame\snakegame.c(353): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  1871377_SnakeGame.vcxproj -> C:\Users\com\Desktop\과제\프로그래밍랩\텀프로젝트\1871377_SnakeGame\Debug\1871377_SnakeGame.exe
