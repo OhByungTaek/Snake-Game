@@ -14,22 +14,22 @@
 <br>
 
 [초기 화면]
-- 초기화면에서는 아무 버튼을 눌러 게임을 실행
+- 초기화면에서는 아무 버튼을 눌러 게임을 실행 <br>
 <br><img width="409" height="260" alt="초기화면" src="https://github.com/user-attachments/assets/336b8638-1f69-43dc-b862-ce8055d8dc30" />
 
 [아이템]
-1. 별 모양 아이템을 획득하면 100점 추가
-2. 노란 원 아이템을 획득하면 점수 100점 추가 및 길이 한 칸 감소
-3. <img width="567" height="306" alt="아이템1_점수추가+길이감소" src="https://github.com/user-attachments/assets/48ca9496-6cb2-4cfc-ae77-e56ac7224f11" />
+1. 별 모양 아이템을 획득하면 100점 추가 <br>
+2. 노란 원 아이템을 획득하면 점수 100점 추가 및 길이 한 칸 감소 <br>
+3. <img width="567" height="306" alt="아이템1_점수추가+길이감소" src="https://github.com/user-attachments/assets/48ca9496-6cb2-4cfc-ae77-e56ac7224f11" /> <br>
 
 <br>
-[2단계 - 300점 달성]
+[2단계 - 300점 달성] <br>
 <img width="479" height="240" alt="2단계_300점달성" src="https://github.com/user-attachments/assets/472de6df-ca33-435f-99dd-ff946d400cc9" /> <br>
 
-[3단계 - 1000점 달성]
+[3단계 - 1000점 달성] <br>
 <img width="494" height="255" alt="3-4단계_1000점부터1500점" src="https://github.com/user-attachments/assets/bf85894c-502c-4a54-8637-9297e1ee25da" /> <br>
 
-[승리 - 2000점 달성]
+[승리 - 2000점 달성] <br>
 <img width="486" height="265" alt="승리_2000점달성" src="https://github.com/user-attachments/assets/a4bea547-f8ed-497e-8d7a-a10192e333a2" /> <br>
 
 <br>
