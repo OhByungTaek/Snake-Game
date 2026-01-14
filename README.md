@@ -35,23 +35,20 @@
 <br>
 
 [규칙]
-- 옆 라인에 충돌 시 생명 하나 소모
-<img width="485" height="261" alt="옆라인_1회충돌 시 100점감소" src="https://github.com/user-attachments/assets/2dfd8f40-6303-44ac-b629-970bd9121054" /> <br>
+- 옆 라인에 충돌 시 생명 하나 소모 <br>
+<img width="485" height="261" alt="옆라인_1회충돌 시 100점감소" src="https://github.com/user-attachments/assets/2dfd8f40-6303-44ac-b629-970bd9121054" /> <br><br>
 
-- 옆 라인 3회 충돌 시 게임 오버
-<img width="475" height="259" alt="옆라인_3회충동시 생명모두 소모" src="https://github.com/user-attachments/assets/5acbeeb3-08b2-4c1a-87c9-317b5f388046" /> <br>
+- 옆 라인 3회 충돌 시 게임 오버 <br>
+<img width="475" height="259" alt="옆라인_3회충동시 생명모두 소모" src="https://github.com/user-attachments/assets/5acbeeb3-08b2-4c1a-87c9-317b5f388046" /> <br><br>
 
-- 상하 라인 충돌 시 바로 게임 오버
-<img width="334" height="258" alt="상단충돌_게임오버" src="https://github.com/user-attachments/assets/bce4a0e0-2541-4288-9900-e957cfc7e570" />
-<img width="317" height="213" alt="하단충돌_게임오버" src="https://github.com/user-attachments/assets/7d6fdcad-7c08-4551-a165-fee030c3ee55" />
+- 상하 라인 충돌 시 바로 게임 오버 <br>
+<img width="334" height="258" alt="상단충돌_게임오버" src="https://github.com/user-attachments/assets/bce4a0e0-2541-4288-9900-e957cfc7e570" /> <br>
+<img width="317" height="213" alt="하단충돌_게임오버" src="https://github.com/user-attachments/assets/7d6fdcad-7c08-4551-a165-fee030c3ee55" /> <br>
 <br>
 
--  아무 장애물 충돌 시 바로 게임 오버
-<img width="439" height="155" alt="장애물충돌_패배" src="https://github.com/user-attachments/assets/d54ce843-12f7-4652-9f88-8f3fafcb1bd8" />
-<img width="363" height="147" alt="장애물충돌_패배2" src="https://github.com/user-attachments/assets/68b60773-2979-428c-b71f-934ba4fecf40" />
+-  아무 장애물 충돌 시 바로 게임 오버 <br>
+<img width="439" height="155" alt="장애물충돌_패배" src="https://github.com/user-attachments/assets/d54ce843-12f7-4652-9f88-8f3fafcb1bd8" /> <br>
+<img width="363" height="147" alt="장애물충돌_패배2" src="https://github.com/user-attachments/assets/68b60773-2979-428c-b71f-934ba4fecf40" /> <br>
 <br>
 
-
-
-<br>
 
